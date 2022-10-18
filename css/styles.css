@@ -3,6 +3,7 @@ body{
 }
       
 hr{
+    font-family: Arial, Helvetica, sans-serif;
     border-style: none;
     border-top-style: dotted;
     border-color: grey;
@@ -11,10 +12,12 @@ hr{
 }
 
 h1{
+    font-family: Arial, Helvetica, sans-serif;
     color: #1363DF;
 }
 
 h3{
+    font-family: Arial, Helvetica, sans-serif;
     color: #1363DF;
 }
 
